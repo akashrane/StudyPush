@@ -1,4 +1,4 @@
-name:  Daily Data Science Article Push
+name: 📚 Daily Data Science Article Push
 
 on:
   # Runs every day at 9:00 AM UTC (adjust to your timezone)
@@ -30,13 +30,13 @@ jobs:
       - name: 🚀 Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "Article Push"
+          git config --local user.name "StudyPush Bot 🤖"
           
           git add -A
           
           # Get today's date for commit message
           DATE=$(date +'%Y-%m-%d')
           
-          git diff --cached --quiet || git commit -m "Daily DS Article — ${DATE}" -m "Auto-generated data science article for daily study push."
+          git diff --cached --quiet || git commit -m "📘 Daily DS Article — ${DATE}" -m "Auto-generated data science article for daily study push."
           
           git push

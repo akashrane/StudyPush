@@ -1,0 +1,42 @@
+name:  Daily Data Science Article Push
+
+on:
+  # Runs every day at 9:00 AM UTC (adjust to your timezone)
+  schedule:
+    - cron: '0 9 * * *'
+  
+  # Also allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-push:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📝 Generate random article
+        run: python generate_article.py
+
+      - name: 🚀 Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Article Push"
+          
+          git add -A
+          
+          # Get today's date for commit message
+          DATE=$(date +'%Y-%m-%d')
+          
+          git diff --cached --quiet || git commit -m "Daily DS Article — ${DATE}" -m "Auto-generated data science article for daily study push."
+          
+          git push

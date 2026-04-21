@@ -1,0 +1,33 @@
+name: "\U0001F4DA Daily Data Science Article Push"
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "\U0001F4E5 Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: "\U0001F40D Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: "\U0001F4DD Generate random article"
+        run: python generate_article.py
+
+      - name: "\U0001F680 Commit and push"
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "StudyPush Bot \U0001F916"
+          git add -A
+          DATE=$(date +'%Y-%m-%d')
+          git diff --cached --quiet || git commit -m "\U0001F4D8 Daily DS Article — ${DATE}" -m "Auto-generated data science article for daily study push."
+          git push

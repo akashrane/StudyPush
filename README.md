@@ -4,40 +4,30 @@
 
 ## 🚀 How It Works
 
-A GitHub Actions workflow runs daily at **9:00 AM UTC** and:
-1. Picks a random data science topic from a curated pool of 20+ topics
+A GitHub Actions workflow runs **every day** and:
+1. Picks a random data science topic from 20+ curated topics
 2. Generates a detailed markdown article with code examples
-3. Commits and pushes it to this repository automatically
+3. Commits and pushes it automatically
 
 ## 📂 Topics Covered
 
 - **Machine Learning** — Linear Regression, Decision Trees, Random Forest, XGBoost, SVM, KNN, Logistic Regression
 - **Deep Learning** — Neural Networks, Backpropagation, Activation Functions
-- **Unsupervised Learning** — K-Means Clustering, PCA, Dimensionality Reduction
+- **Unsupervised Learning** — K-Means Clustering, PCA
 - **Data Preprocessing** — Feature Engineering, Handling Missing Data
 - **Statistics** — A/B Testing, Bias-Variance Tradeoff, Cross-Validation
-- **Python Tools** — Pandas, NumPy, Scikit-learn
+- **Python Tools** — Pandas, Scikit-learn
 - **NLP** — Text Preprocessing, TF-IDF, Word Embeddings
 - **Time Series** — ARIMA, Prophet, Forecasting
-- **Data Engineering** — SQL Window Functions, CTEs, Query Optimization
-- **Data Visualization** — Matplotlib, Seaborn, Plotly Best Practices
-- **Data Analysis** — EDA, Outlier Detection, Distribution Analysis
+- **Data Engineering** — SQL Window Functions, CTEs
+- **Data Visualization** — Matplotlib, Seaborn, Plotly
 
-## 🛠️ Setup Instructions
+## ⚙️ Trigger Manually
 
-1. Fork or clone this repo
-2. Enable GitHub Actions in your repo settings
-3. The workflow will run automatically every day at 9 AM UTC
-4. To trigger manually: go to **Actions** tab → select the workflow → click **Run workflow**
-
-## ⚙️ Customization
-
-- **Change schedule**: Edit the `cron` expression in `.github/workflows/daily-push.yml`
-- **Add topics**: Add new entries to the `TOPICS` dictionary in `generate_article.py`
-- **Change timezone**: Modify the cron time (e.g., `0 14 * * *` for 2 PM UTC = 9 AM EST)
+Go to **Actions** tab → select the workflow → click **Run workflow**
 
 ## 📊 Article Log
 
 | Date | Topic | Category |
 |------|-------|----------|
-| 2026-04-21 | [Clustering with K-Means](articles/unsupervised-learning/2026-04-21_clustering-with-k-means.md) | Unsupervised Learning |
+| 2026-04-20 | [Pandas Essentials](articles\python-tools\2026-04-20_pandas-essentials.md) | Python Tools |

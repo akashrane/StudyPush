@@ -891,7 +891,7 @@ def update_readme(topic_name, category, date_str, filepath):
     new_entry = f"| {date_str} | [{topic_name}]({filepath}) | {category} |"
 
     if os.path.exists(readme_path):
-        with open(readme_path, "r") as f:
+        with open(readme_path, "r", encoding="utf-8") as f:
             content = f.read()
         table_header = "| Date | Topic | Category |"
         separator = "|------|-------|----------|"
@@ -911,7 +911,7 @@ def update_readme(topic_name, category, date_str, filepath):
 {separator}
 {new_entry}
 """
-    with open(readme_path, "w") as f:
+    with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
     print("📝 README updated")
 
@@ -922,7 +922,7 @@ def main():
     os.makedirs(cat_dir, exist_ok=True)
     safe = ''.join(c for c in topic_name.lower().replace(" ", "-") if c.isalnum() or c == '-')
     filepath = os.path.join(cat_dir, f"{date_str}_{safe}.md")
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write(article)
     print(f"✅ Generated: {filepath}")
     print(f"📚 Topic: {topic_name}")

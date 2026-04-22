@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-04-22 | [Bias-Variance Tradeoff](articles/ml-theory/2026-04-22_bias-variance-tradeoff.md) | ML Theory |
 | 2026-04-21 | [Support Vector Machines](articles/machine-learning/2026-04-21_support-vector-machines.md) | Machine Learning |
 | 2026-04-21 | [Feature Engineering](articles/data-preprocessing/2026-04-21_feature-engineering.md) | Data Preprocessing |
 | 2026-04-21 | [K-Means Clustering](articles/unsupervised-learning/2026-04-21_k-means-clustering.md) | Unsupervised Learning |

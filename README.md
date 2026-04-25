@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-04-25 | [Exploratory Data Analysis](articles/data-analysis/2026-04-25_exploratory-data-analysis.md) | Data Analysis |
 | 2026-04-24 | [Cross-Validation](articles/model-evaluation/2026-04-24_cross-validation.md) | Model Evaluation |
 | 2026-04-23 | [Support Vector Machines](articles/machine-learning/2026-04-23_support-vector-machines.md) | Machine Learning |
 | 2026-04-22 | [Bias-Variance Tradeoff](articles/ml-theory/2026-04-22_bias-variance-tradeoff.md) | ML Theory |

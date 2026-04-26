@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-04-26 | [PCA](articles/unsupervised-learning/2026-04-26_pca.md) | Unsupervised Learning |
 | 2026-04-26 | [Handling Missing Data](articles/data-preprocessing/2026-04-26_handling-missing-data.md) | Data Preprocessing |
 | 2026-04-25 | [Exploratory Data Analysis](articles/data-analysis/2026-04-25_exploratory-data-analysis.md) | Data Analysis |
 | 2026-04-24 | [Cross-Validation](articles/model-evaluation/2026-04-24_cross-validation.md) | Model Evaluation |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-04-29 | [Bias-Variance Tradeoff](articles/ml-theory/2026-04-29_bias-variance-tradeoff.md) | ML Theory |
 | 2026-04-28 | [Decision Trees](articles/machine-learning/2026-04-28_decision-trees.md) | Machine Learning |
 | 2026-04-27 | [K-Nearest Neighbors](articles/machine-learning/2026-04-27_k-nearest-neighbors.md) | Machine Learning |
 | 2026-04-26 | [PCA](articles/unsupervised-learning/2026-04-26_pca.md) | Unsupervised Learning |

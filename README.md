@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-02 | [XGBoost](articles/machine-learning/2026-05-02_xgboost.md) | Machine Learning |
 | 2026-05-01 | [Random Forest](articles/machine-learning/2026-05-01_random-forest.md) | Machine Learning |
 | 2026-04-30 | [PCA](articles/unsupervised-learning/2026-04-30_pca.md) | Unsupervised Learning |
 | 2026-04-29 | [Bias-Variance Tradeoff](articles/ml-theory/2026-04-29_bias-variance-tradeoff.md) | ML Theory |

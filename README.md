@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-04 | [Neural Networks Basics](articles/deep-learning/2026-05-04_neural-networks-basics.md) | Deep Learning |
 | 2026-05-03 | [Random Forest](articles/machine-learning/2026-05-03_random-forest.md) | Machine Learning |
 | 2026-05-02 | [XGBoost](articles/machine-learning/2026-05-02_xgboost.md) | Machine Learning |
 | 2026-05-01 | [Random Forest](articles/machine-learning/2026-05-01_random-forest.md) | Machine Learning |

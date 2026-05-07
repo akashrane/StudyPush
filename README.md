@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-07 | [Exploratory Data Analysis](articles/data-analysis/2026-05-07_exploratory-data-analysis.md) | Data Analysis |
 | 2026-05-06 | [Feature Engineering](articles/data-preprocessing/2026-05-06_feature-engineering.md) | Data Preprocessing |
 | 2026-05-05 | [NLP Basics](articles/nlp/2026-05-05_nlp-basics.md) | NLP |
 | 2026-05-04 | [Neural Networks Basics](articles/deep-learning/2026-05-04_neural-networks-basics.md) | Deep Learning |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-13 | [Decision Trees](articles/machine-learning/2026-05-13_decision-trees.md) | Machine Learning |
 | 2026-05-12 | [Data Visualization](articles/data-visualization/2026-05-12_data-visualization.md) | Data Visualization |
 | 2026-05-11 | [A/B Testing](articles/statistics/2026-05-11_ab-testing.md) | Statistics |
 | 2026-05-10 | [K-Nearest Neighbors](articles/machine-learning/2026-05-10_k-nearest-neighbors.md) | Machine Learning |

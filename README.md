@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-17 | [Linear Regression](articles/machine-learning/2026-05-17_linear-regression.md) | Machine Learning |
 | 2026-05-16 | [Exploratory Data Analysis](articles/data-analysis/2026-05-16_exploratory-data-analysis.md) | Data Analysis |
 | 2026-05-15 | [Handling Missing Data](articles/data-preprocessing/2026-05-15_handling-missing-data.md) | Data Preprocessing |
 | 2026-05-14 | [Time Series Forecasting](articles/time-series/2026-05-14_time-series-forecasting.md) | Time Series |

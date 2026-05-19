@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-19 | [Bias-Variance Tradeoff](articles/ml-theory/2026-05-19_bias-variance-tradeoff.md) | ML Theory |
 | 2026-05-18 | [Neural Networks Basics](articles/deep-learning/2026-05-18_neural-networks-basics.md) | Deep Learning |
 | 2026-05-17 | [Linear Regression](articles/machine-learning/2026-05-17_linear-regression.md) | Machine Learning |
 | 2026-05-16 | [Exploratory Data Analysis](articles/data-analysis/2026-05-16_exploratory-data-analysis.md) | Data Analysis |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-22 | [Time Series Forecasting](articles/time-series/2026-05-22_time-series-forecasting.md) | Time Series |
 | 2026-05-21 | [Data Visualization](articles/data-visualization/2026-05-21_data-visualization.md) | Data Visualization |
 | 2026-05-20 | [Logistic Regression](articles/machine-learning/2026-05-20_logistic-regression.md) | Machine Learning |
 | 2026-05-19 | [Bias-Variance Tradeoff](articles/ml-theory/2026-05-19_bias-variance-tradeoff.md) | ML Theory |

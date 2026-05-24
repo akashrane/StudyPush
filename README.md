@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-24 | [XGBoost](articles/machine-learning/2026-05-24_xgboost.md) | Machine Learning |
 | 2026-05-23 | [Random Forest](articles/machine-learning/2026-05-23_random-forest.md) | Machine Learning |
 | 2026-05-22 | [Time Series Forecasting](articles/time-series/2026-05-22_time-series-forecasting.md) | Time Series |
 | 2026-05-21 | [Data Visualization](articles/data-visualization/2026-05-21_data-visualization.md) | Data Visualization |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-27 | [K-Nearest Neighbors](articles/machine-learning/2026-05-27_k-nearest-neighbors.md) | Machine Learning |
 | 2026-05-25 | [K-Nearest Neighbors](articles/machine-learning/2026-05-25_k-nearest-neighbors.md) | Machine Learning |
 | 2026-05-24 | [XGBoost](articles/machine-learning/2026-05-24_xgboost.md) | Machine Learning |
 | 2026-05-23 | [Random Forest](articles/machine-learning/2026-05-23_random-forest.md) | Machine Learning |

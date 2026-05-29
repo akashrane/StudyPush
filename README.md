@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-05-29 | [Feature Engineering](articles/data-preprocessing/2026-05-29_feature-engineering.md) | Data Preprocessing |
 | 2026-05-28 | [Linear Regression](articles/machine-learning/2026-05-28_linear-regression.md) | Machine Learning |
 | 2026-05-27 | [K-Nearest Neighbors](articles/machine-learning/2026-05-27_k-nearest-neighbors.md) | Machine Learning |
 | 2026-05-25 | [K-Nearest Neighbors](articles/machine-learning/2026-05-25_k-nearest-neighbors.md) | Machine Learning |

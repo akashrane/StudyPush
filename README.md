@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-01 | [Feature Engineering](articles/data-preprocessing/2026-06-01_feature-engineering.md) | Data Preprocessing |
 | 2026-05-31 | [Time Series Forecasting](articles/time-series/2026-05-31_time-series-forecasting.md) | Time Series |
 | 2026-05-30 | [Cross-Validation](articles/model-evaluation/2026-05-30_cross-validation.md) | Model Evaluation |
 | 2026-05-29 | [Feature Engineering](articles/data-preprocessing/2026-05-29_feature-engineering.md) | Data Preprocessing |

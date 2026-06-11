@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-11 | [A/B Testing](articles/statistics/2026-06-11_ab-testing.md) | Statistics |
 | 2026-06-10 | [NLP Basics](articles/nlp/2026-06-10_nlp-basics.md) | NLP |
 | 2026-06-09 | [Random Forest](articles/machine-learning/2026-06-09_random-forest.md) | Machine Learning |
 | 2026-06-08 | [Linear Regression](articles/machine-learning/2026-06-08_linear-regression.md) | Machine Learning |

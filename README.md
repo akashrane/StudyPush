@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-12 | [SQL for Data Science](articles/data-engineering/2026-06-12_sql-for-data-science.md) | Data Engineering |
 | 2026-06-11 | [A/B Testing](articles/statistics/2026-06-11_ab-testing.md) | Statistics |
 | 2026-06-10 | [NLP Basics](articles/nlp/2026-06-10_nlp-basics.md) | NLP |
 | 2026-06-09 | [Random Forest](articles/machine-learning/2026-06-09_random-forest.md) | Machine Learning |

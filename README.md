@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-17 | [Feature Engineering](articles/data-preprocessing/2026-06-17_feature-engineering.md) | Data Preprocessing |
 | 2026-06-16 | [Data Visualization](articles/data-visualization/2026-06-16_data-visualization.md) | Data Visualization |
 | 2026-06-15 | [Exploratory Data Analysis](articles/data-analysis/2026-06-15_exploratory-data-analysis.md) | Data Analysis |
 | 2026-06-14 | [Random Forest](articles/machine-learning/2026-06-14_random-forest.md) | Machine Learning |

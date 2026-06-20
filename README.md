@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-20 | [XGBoost](articles/machine-learning/2026-06-20_xgboost.md) | Machine Learning |
 | 2026-06-19 | [Random Forest](articles/machine-learning/2026-06-19_random-forest.md) | Machine Learning |
 | 2026-06-18 | [Random Forest](articles/machine-learning/2026-06-18_random-forest.md) | Machine Learning |
 | 2026-06-17 | [Feature Engineering](articles/data-preprocessing/2026-06-17_feature-engineering.md) | Data Preprocessing |

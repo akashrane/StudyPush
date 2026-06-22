@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-22 | [Exploratory Data Analysis](articles/data-analysis/2026-06-22_exploratory-data-analysis.md) | Data Analysis |
 | 2026-06-21 | [NLP Basics](articles/nlp/2026-06-21_nlp-basics.md) | NLP |
 | 2026-06-20 | [XGBoost](articles/machine-learning/2026-06-20_xgboost.md) | Machine Learning |
 | 2026-06-19 | [Random Forest](articles/machine-learning/2026-06-19_random-forest.md) | Machine Learning |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-24 | [PCA](articles/unsupervised-learning/2026-06-24_pca.md) | Unsupervised Learning |
 | 2026-06-23 | [Decision Trees](articles/machine-learning/2026-06-23_decision-trees.md) | Machine Learning |
 | 2026-06-22 | [Exploratory Data Analysis](articles/data-analysis/2026-06-22_exploratory-data-analysis.md) | Data Analysis |
 | 2026-06-21 | [NLP Basics](articles/nlp/2026-06-21_nlp-basics.md) | NLP |

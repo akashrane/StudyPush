@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-06-29 | [Random Forest](articles/machine-learning/2026-06-29_random-forest.md) | Machine Learning |
 | 2026-06-28 | [Time Series Forecasting](articles/time-series/2026-06-28_time-series-forecasting.md) | Time Series |
 | 2026-06-27 | [Feature Engineering](articles/data-preprocessing/2026-06-27_feature-engineering.md) | Data Preprocessing |
 | 2026-06-26 | [NLP Basics](articles/nlp/2026-06-26_nlp-basics.md) | NLP |

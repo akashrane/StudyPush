@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-03 | [PCA](articles/unsupervised-learning/2026-07-03_pca.md) | Unsupervised Learning |
 | 2026-07-02 | [Feature Engineering](articles/data-preprocessing/2026-07-02_feature-engineering.md) | Data Preprocessing |
 | 2026-07-01 | [SQL for Data Science](articles/data-engineering/2026-07-01_sql-for-data-science.md) | Data Engineering |
 | 2026-06-30 | [Data Visualization](articles/data-visualization/2026-06-30_data-visualization.md) | Data Visualization |

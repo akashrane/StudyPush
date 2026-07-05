@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-05 | [Pandas Essentials](articles/python-tools/2026-07-05_pandas-essentials.md) | Python Tools |
 | 2026-07-04 | [Handling Missing Data](articles/data-preprocessing/2026-07-04_handling-missing-data.md) | Data Preprocessing |
 | 2026-07-03 | [PCA](articles/unsupervised-learning/2026-07-03_pca.md) | Unsupervised Learning |
 | 2026-07-02 | [Feature Engineering](articles/data-preprocessing/2026-07-02_feature-engineering.md) | Data Preprocessing |

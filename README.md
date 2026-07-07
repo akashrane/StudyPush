@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-07 | [Time Series Forecasting](articles/time-series/2026-07-07_time-series-forecasting.md) | Time Series |
 | 2026-07-06 | [Random Forest](articles/machine-learning/2026-07-06_random-forest.md) | Machine Learning |
 | 2026-07-05 | [Pandas Essentials](articles/python-tools/2026-07-05_pandas-essentials.md) | Python Tools |
 | 2026-07-04 | [Handling Missing Data](articles/data-preprocessing/2026-07-04_handling-missing-data.md) | Data Preprocessing |

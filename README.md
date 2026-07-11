@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-11 | [Support Vector Machines](articles/machine-learning/2026-07-11_support-vector-machines.md) | Machine Learning |
 | 2026-07-10 | [XGBoost](articles/machine-learning/2026-07-10_xgboost.md) | Machine Learning |
 | 2026-07-09 | [Neural Networks Basics](articles/deep-learning/2026-07-09_neural-networks-basics.md) | Deep Learning |
 | 2026-07-08 | [PCA](articles/unsupervised-learning/2026-07-08_pca.md) | Unsupervised Learning |

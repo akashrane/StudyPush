@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-13 | [Support Vector Machines](articles/machine-learning/2026-07-13_support-vector-machines.md) | Machine Learning |
 | 2026-07-12 | [Cross-Validation](articles/model-evaluation/2026-07-12_cross-validation.md) | Model Evaluation |
 | 2026-07-11 | [Support Vector Machines](articles/machine-learning/2026-07-11_support-vector-machines.md) | Machine Learning |
 | 2026-07-10 | [XGBoost](articles/machine-learning/2026-07-10_xgboost.md) | Machine Learning |

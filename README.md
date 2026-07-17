@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-17 | [A/B Testing](articles/statistics/2026-07-17_ab-testing.md) | Statistics |
 | 2026-07-16 | [Exploratory Data Analysis](articles/data-analysis/2026-07-16_exploratory-data-analysis.md) | Data Analysis |
 | 2026-07-15 | [Support Vector Machines](articles/machine-learning/2026-07-15_support-vector-machines.md) | Machine Learning |
 | 2026-07-14 | [Cross-Validation](articles/model-evaluation/2026-07-14_cross-validation.md) | Model Evaluation |

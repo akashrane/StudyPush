@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-20 | [Random Forest](articles/machine-learning/2026-07-20_random-forest.md) | Machine Learning |
 | 2026-07-19 | [NLP Basics](articles/nlp/2026-07-19_nlp-basics.md) | NLP |
 | 2026-07-18 | [K-Nearest Neighbors](articles/machine-learning/2026-07-18_k-nearest-neighbors.md) | Machine Learning |
 | 2026-07-17 | [A/B Testing](articles/statistics/2026-07-17_ab-testing.md) | Statistics |

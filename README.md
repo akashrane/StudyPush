@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-26 | [Bias-Variance Tradeoff](articles/ml-theory/2026-07-26_bias-variance-tradeoff.md) | ML Theory |
 | 2026-07-25 | [Cross-Validation](articles/model-evaluation/2026-07-25_cross-validation.md) | Model Evaluation |
 | 2026-07-24 | [XGBoost](articles/machine-learning/2026-07-24_xgboost.md) | Machine Learning |
 | 2026-07-23 | [Neural Networks Basics](articles/deep-learning/2026-07-23_neural-networks-basics.md) | Deep Learning |

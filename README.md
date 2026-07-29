@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-07-29 | [Data Visualization](articles/data-visualization/2026-07-29_data-visualization.md) | Data Visualization |
 | 2026-07-28 | [Feature Engineering](articles/data-preprocessing/2026-07-28_feature-engineering.md) | Data Preprocessing |
 | 2026-07-27 | [Feature Engineering](articles/data-preprocessing/2026-07-27_feature-engineering.md) | Data Preprocessing |
 | 2026-07-26 | [Bias-Variance Tradeoff](articles/ml-theory/2026-07-26_bias-variance-tradeoff.md) | ML Theory |

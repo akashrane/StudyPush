@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-04 | [Support Vector Machines](articles/machine-learning/2026-08-04_support-vector-machines.md) | Machine Learning |
 | 2026-08-03 | [XGBoost](articles/machine-learning/2026-08-03_xgboost.md) | Machine Learning |
 | 2026-08-02 | [Feature Engineering](articles/data-preprocessing/2026-08-02_feature-engineering.md) | Data Preprocessing |
 | 2026-08-01 | [K-Means Clustering](articles/unsupervised-learning/2026-08-01_k-means-clustering.md) | Unsupervised Learning |

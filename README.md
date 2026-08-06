@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-06 | [Feature Engineering](articles/data-preprocessing/2026-08-06_feature-engineering.md) | Data Preprocessing |
 | 2026-08-05 | [Neural Networks Basics](articles/deep-learning/2026-08-05_neural-networks-basics.md) | Deep Learning |
 | 2026-08-04 | [Support Vector Machines](articles/machine-learning/2026-08-04_support-vector-machines.md) | Machine Learning |
 | 2026-08-03 | [XGBoost](articles/machine-learning/2026-08-03_xgboost.md) | Machine Learning |

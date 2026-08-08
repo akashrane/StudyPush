@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-08 | [PCA](articles/unsupervised-learning/2026-08-08_pca.md) | Unsupervised Learning |
 | 2026-08-07 | [A/B Testing](articles/statistics/2026-08-07_ab-testing.md) | Statistics |
 | 2026-08-06 | [Feature Engineering](articles/data-preprocessing/2026-08-06_feature-engineering.md) | Data Preprocessing |
 | 2026-08-05 | [Neural Networks Basics](articles/deep-learning/2026-08-05_neural-networks-basics.md) | Deep Learning |

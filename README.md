@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-11 | [Neural Networks Basics](articles/deep-learning/2026-08-11_neural-networks-basics.md) | Deep Learning |
 | 2026-08-10 | [Decision Trees](articles/machine-learning/2026-08-10_decision-trees.md) | Machine Learning |
 | 2026-08-09 | [Linear Regression](articles/machine-learning/2026-08-09_linear-regression.md) | Machine Learning |
 | 2026-08-08 | [PCA](articles/unsupervised-learning/2026-08-08_pca.md) | Unsupervised Learning |

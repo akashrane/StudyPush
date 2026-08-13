@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-13 | [SQL for Data Science](articles/data-engineering/2026-08-13_sql-for-data-science.md) | Data Engineering |
 | 2026-08-12 | [XGBoost](articles/machine-learning/2026-08-12_xgboost.md) | Machine Learning |
 | 2026-08-11 | [Neural Networks Basics](articles/deep-learning/2026-08-11_neural-networks-basics.md) | Deep Learning |
 | 2026-08-10 | [Decision Trees](articles/machine-learning/2026-08-10_decision-trees.md) | Machine Learning |

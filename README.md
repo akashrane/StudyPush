@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-16 | [Time Series Forecasting](articles/time-series/2026-08-16_time-series-forecasting.md) | Time Series |
 | 2026-08-15 | [XGBoost](articles/machine-learning/2026-08-15_xgboost.md) | Machine Learning |
 | 2026-08-14 | [Data Visualization](articles/data-visualization/2026-08-14_data-visualization.md) | Data Visualization |
 | 2026-08-13 | [SQL for Data Science](articles/data-engineering/2026-08-13_sql-for-data-science.md) | Data Engineering |

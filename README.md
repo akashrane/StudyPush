@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-18 | [PCA](articles/unsupervised-learning/2026-08-18_pca.md) | Unsupervised Learning |
 | 2026-08-17 | [XGBoost](articles/machine-learning/2026-08-17_xgboost.md) | Machine Learning |
 | 2026-08-16 | [Time Series Forecasting](articles/time-series/2026-08-16_time-series-forecasting.md) | Time Series |
 | 2026-08-15 | [XGBoost](articles/machine-learning/2026-08-15_xgboost.md) | Machine Learning |

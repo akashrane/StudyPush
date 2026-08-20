@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-20 | [Random Forest](articles/machine-learning/2026-08-20_random-forest.md) | Machine Learning |
 | 2026-08-19 | [Random Forest](articles/machine-learning/2026-08-19_random-forest.md) | Machine Learning |
 | 2026-08-18 | [PCA](articles/unsupervised-learning/2026-08-18_pca.md) | Unsupervised Learning |
 | 2026-08-17 | [XGBoost](articles/machine-learning/2026-08-17_xgboost.md) | Machine Learning |

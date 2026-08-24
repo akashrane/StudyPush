@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-08-24 | [Pandas Essentials](articles/python-tools/2026-08-24_pandas-essentials.md) | Python Tools |
 | 2026-08-23 | [Data Visualization](articles/data-visualization/2026-08-23_data-visualization.md) | Data Visualization |
 | 2026-08-22 | [Decision Trees](articles/machine-learning/2026-08-22_decision-trees.md) | Machine Learning |
 | 2026-08-21 | [Linear Regression](articles/machine-learning/2026-08-21_linear-regression.md) | Machine Learning |

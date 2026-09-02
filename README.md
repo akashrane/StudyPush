@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-02 | [Cross-Validation](articles/model-evaluation/2026-09-02_cross-validation.md) | Model Evaluation |
 | 2026-09-01 | [K-Nearest Neighbors](articles/machine-learning/2026-09-01_k-nearest-neighbors.md) | Machine Learning |
 | 2026-08-31 | [Support Vector Machines](articles/machine-learning/2026-08-31_support-vector-machines.md) | Machine Learning |
 | 2026-08-30 | [Decision Trees](articles/machine-learning/2026-08-30_decision-trees.md) | Machine Learning |

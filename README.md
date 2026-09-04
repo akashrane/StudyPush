@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-04 | [A/B Testing](articles/statistics/2026-09-04_ab-testing.md) | Statistics |
 | 2026-09-03 | [K-Nearest Neighbors](articles/machine-learning/2026-09-03_k-nearest-neighbors.md) | Machine Learning |
 | 2026-09-02 | [Cross-Validation](articles/model-evaluation/2026-09-02_cross-validation.md) | Model Evaluation |
 | 2026-09-01 | [K-Nearest Neighbors](articles/machine-learning/2026-09-01_k-nearest-neighbors.md) | Machine Learning |

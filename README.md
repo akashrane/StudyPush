@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-08 | [Pandas Essentials](articles/python-tools/2026-09-08_pandas-essentials.md) | Python Tools |
 | 2026-09-07 | [Cross-Validation](articles/model-evaluation/2026-09-07_cross-validation.md) | Model Evaluation |
 | 2026-09-06 | [PCA](articles/unsupervised-learning/2026-09-06_pca.md) | Unsupervised Learning |
 | 2026-09-05 | [Neural Networks Basics](articles/deep-learning/2026-09-05_neural-networks-basics.md) | Deep Learning |

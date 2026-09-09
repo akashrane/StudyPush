@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-09 | [K-Means Clustering](articles/unsupervised-learning/2026-09-09_k-means-clustering.md) | Unsupervised Learning |
 | 2026-09-08 | [Pandas Essentials](articles/python-tools/2026-09-08_pandas-essentials.md) | Python Tools |
 | 2026-09-07 | [Cross-Validation](articles/model-evaluation/2026-09-07_cross-validation.md) | Model Evaluation |
 | 2026-09-06 | [PCA](articles/unsupervised-learning/2026-09-06_pca.md) | Unsupervised Learning |

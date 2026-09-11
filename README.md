@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-11 | [Bias-Variance Tradeoff](articles/ml-theory/2026-09-11_bias-variance-tradeoff.md) | ML Theory |
 | 2026-09-10 | [Logistic Regression](articles/machine-learning/2026-09-10_logistic-regression.md) | Machine Learning |
 | 2026-09-09 | [K-Means Clustering](articles/unsupervised-learning/2026-09-09_k-means-clustering.md) | Unsupervised Learning |
 | 2026-09-08 | [Pandas Essentials](articles/python-tools/2026-09-08_pandas-essentials.md) | Python Tools |

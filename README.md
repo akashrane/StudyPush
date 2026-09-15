@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-15 | [PCA](articles/unsupervised-learning/2026-09-15_pca.md) | Unsupervised Learning |
 | 2026-09-14 | [Logistic Regression](articles/machine-learning/2026-09-14_logistic-regression.md) | Machine Learning |
 | 2026-09-13 | [XGBoost](articles/machine-learning/2026-09-13_xgboost.md) | Machine Learning |
 | 2026-09-12 | [K-Nearest Neighbors](articles/machine-learning/2026-09-12_k-nearest-neighbors.md) | Machine Learning |

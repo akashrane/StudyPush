@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-17 | [Feature Engineering](articles/data-preprocessing/2026-09-17_feature-engineering.md) | Data Preprocessing |
 | 2026-09-16 | [K-Nearest Neighbors](articles/machine-learning/2026-09-16_k-nearest-neighbors.md) | Machine Learning |
 | 2026-09-15 | [PCA](articles/unsupervised-learning/2026-09-15_pca.md) | Unsupervised Learning |
 | 2026-09-14 | [Logistic Regression](articles/machine-learning/2026-09-14_logistic-regression.md) | Machine Learning |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-18 | [Cross-Validation](articles/model-evaluation/2026-09-18_cross-validation.md) | Model Evaluation |
 | 2026-09-17 | [Feature Engineering](articles/data-preprocessing/2026-09-17_feature-engineering.md) | Data Preprocessing |
 | 2026-09-16 | [K-Nearest Neighbors](articles/machine-learning/2026-09-16_k-nearest-neighbors.md) | Machine Learning |
 | 2026-09-15 | [PCA](articles/unsupervised-learning/2026-09-15_pca.md) | Unsupervised Learning |

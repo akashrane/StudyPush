@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-22 | [K-Means Clustering](articles/unsupervised-learning/2026-09-22_k-means-clustering.md) | Unsupervised Learning |
 | 2026-09-21 | [NLP Basics](articles/nlp/2026-09-21_nlp-basics.md) | NLP |
 | 2026-09-20 | [Bias-Variance Tradeoff](articles/ml-theory/2026-09-20_bias-variance-tradeoff.md) | ML Theory |
 | 2026-09-19 | [Handling Missing Data](articles/data-preprocessing/2026-09-19_handling-missing-data.md) | Data Preprocessing |

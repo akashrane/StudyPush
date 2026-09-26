@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-26 | [Time Series Forecasting](articles/time-series/2026-09-26_time-series-forecasting.md) | Time Series |
 | 2026-09-25 | [Exploratory Data Analysis](articles/data-analysis/2026-09-25_exploratory-data-analysis.md) | Data Analysis |
 | 2026-09-24 | [Time Series Forecasting](articles/time-series/2026-09-24_time-series-forecasting.md) | Time Series |
 | 2026-09-23 | [Data Visualization](articles/data-visualization/2026-09-23_data-visualization.md) | Data Visualization |

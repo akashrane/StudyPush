@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-09-30 | [Time Series Forecasting](articles/time-series/2026-09-30_time-series-forecasting.md) | Time Series |
 | 2026-09-29 | [Exploratory Data Analysis](articles/data-analysis/2026-09-29_exploratory-data-analysis.md) | Data Analysis |
 | 2026-09-28 | [NLP Basics](articles/nlp/2026-09-28_nlp-basics.md) | NLP |
 | 2026-09-27 | [K-Means Clustering](articles/unsupervised-learning/2026-09-27_k-means-clustering.md) | Unsupervised Learning |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-03 | [Feature Engineering](articles/data-preprocessing/2026-10-03_feature-engineering.md) | Data Preprocessing |
 | 2026-10-02 | [Pandas Essentials](articles/python-tools/2026-10-02_pandas-essentials.md) | Python Tools |
 | 2026-10-01 | [SQL for Data Science](articles/data-engineering/2026-10-01_sql-for-data-science.md) | Data Engineering |
 | 2026-09-30 | [Time Series Forecasting](articles/time-series/2026-09-30_time-series-forecasting.md) | Time Series |

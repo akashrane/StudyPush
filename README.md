@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-07 | [Handling Missing Data](articles/data-preprocessing/2026-10-07_handling-missing-data.md) | Data Preprocessing |
 | 2026-10-06 | [K-Means Clustering](articles/unsupervised-learning/2026-10-06_k-means-clustering.md) | Unsupervised Learning |
 | 2026-10-05 | [K-Nearest Neighbors](articles/machine-learning/2026-10-05_k-nearest-neighbors.md) | Machine Learning |
 | 2026-10-04 | [A/B Testing](articles/statistics/2026-10-04_ab-testing.md) | Statistics |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-10 | [Logistic Regression](articles/machine-learning/2026-10-10_logistic-regression.md) | Machine Learning |
 | 2026-10-09 | [Linear Regression](articles/machine-learning/2026-10-09_linear-regression.md) | Machine Learning |
 | 2026-10-08 | [K-Means Clustering](articles/unsupervised-learning/2026-10-08_k-means-clustering.md) | Unsupervised Learning |
 | 2026-10-07 | [Handling Missing Data](articles/data-preprocessing/2026-10-07_handling-missing-data.md) | Data Preprocessing |

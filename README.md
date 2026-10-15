@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-15 | [Logistic Regression](articles/machine-learning/2026-10-15_logistic-regression.md) | Machine Learning |
 | 2026-10-14 | [K-Means Clustering](articles/unsupervised-learning/2026-10-14_k-means-clustering.md) | Unsupervised Learning |
 | 2026-10-13 | [PCA](articles/unsupervised-learning/2026-10-13_pca.md) | Unsupervised Learning |
 | 2026-10-12 | [SQL for Data Science](articles/data-engineering/2026-10-12_sql-for-data-science.md) | Data Engineering |

@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-19 | [Time Series Forecasting](articles/time-series/2026-10-19_time-series-forecasting.md) | Time Series |
 | 2026-10-18 | [XGBoost](articles/machine-learning/2026-10-18_xgboost.md) | Machine Learning |
 | 2026-10-17 | [Neural Networks Basics](articles/deep-learning/2026-10-17_neural-networks-basics.md) | Deep Learning |
 | 2026-10-16 | [Neural Networks Basics](articles/deep-learning/2026-10-16_neural-networks-basics.md) | Deep Learning |

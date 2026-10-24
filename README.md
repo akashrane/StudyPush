@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-24 | [Support Vector Machines](articles/machine-learning/2026-10-24_support-vector-machines.md) | Machine Learning |
 | 2026-10-23 | [K-Nearest Neighbors](articles/machine-learning/2026-10-23_k-nearest-neighbors.md) | Machine Learning |
 | 2026-10-22 | [Time Series Forecasting](articles/time-series/2026-10-22_time-series-forecasting.md) | Time Series |
 | 2026-10-21 | [Data Visualization](articles/data-visualization/2026-10-21_data-visualization.md) | Data Visualization |

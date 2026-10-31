@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-10-31 | [PCA](articles/unsupervised-learning/2026-10-31_pca.md) | Unsupervised Learning |
 | 2026-10-30 | [Decision Trees](articles/machine-learning/2026-10-30_decision-trees.md) | Machine Learning |
 | 2026-10-29 | [Random Forest](articles/machine-learning/2026-10-29_random-forest.md) | Machine Learning |
 | 2026-10-28 | [Time Series Forecasting](articles/time-series/2026-10-28_time-series-forecasting.md) | Time Series |

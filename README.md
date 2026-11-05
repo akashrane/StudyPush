@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-11-05 | [Linear Regression](articles/machine-learning/2026-11-05_linear-regression.md) | Machine Learning |
 | 2026-11-04 | [Logistic Regression](articles/machine-learning/2026-11-04_logistic-regression.md) | Machine Learning |
 | 2026-11-03 | [Random Forest](articles/machine-learning/2026-11-03_random-forest.md) | Machine Learning |
 | 2026-11-02 | [Pandas Essentials](articles/python-tools/2026-11-02_pandas-essentials.md) | Python Tools |

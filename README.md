@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-11-08 | [Neural Networks Basics](articles/deep-learning/2026-11-08_neural-networks-basics.md) | Deep Learning |
 | 2026-11-07 | [Random Forest](articles/machine-learning/2026-11-07_random-forest.md) | Machine Learning |
 | 2026-11-06 | [Bias-Variance Tradeoff](articles/ml-theory/2026-11-06_bias-variance-tradeoff.md) | ML Theory |
 | 2026-11-05 | [Linear Regression](articles/machine-learning/2026-11-05_linear-regression.md) | Machine Learning |

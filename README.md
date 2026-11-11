@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-11-11 | [Data Visualization](articles/data-visualization/2026-11-11_data-visualization.md) | Data Visualization |
 | 2026-11-10 | [Handling Missing Data](articles/data-preprocessing/2026-11-10_handling-missing-data.md) | Data Preprocessing |
 | 2026-11-09 | [Logistic Regression](articles/machine-learning/2026-11-09_logistic-regression.md) | Machine Learning |
 | 2026-11-08 | [Neural Networks Basics](articles/deep-learning/2026-11-08_neural-networks-basics.md) | Deep Learning |

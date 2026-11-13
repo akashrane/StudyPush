@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-11-13 | [Decision Trees](articles/machine-learning/2026-11-13_decision-trees.md) | Machine Learning |
 | 2026-11-12 | [Cross-Validation](articles/model-evaluation/2026-11-12_cross-validation.md) | Model Evaluation |
 | 2026-11-11 | [Data Visualization](articles/data-visualization/2026-11-11_data-visualization.md) | Data Visualization |
 | 2026-11-10 | [Handling Missing Data](articles/data-preprocessing/2026-11-10_handling-missing-data.md) | Data Preprocessing |

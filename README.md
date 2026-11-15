@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-11-15 | [A/B Testing](articles/statistics/2026-11-15_ab-testing.md) | Statistics |
 | 2026-11-14 | [Time Series Forecasting](articles/time-series/2026-11-14_time-series-forecasting.md) | Time Series |
 | 2026-11-13 | [Decision Trees](articles/machine-learning/2026-11-13_decision-trees.md) | Machine Learning |
 | 2026-11-12 | [Cross-Validation](articles/model-evaluation/2026-11-12_cross-validation.md) | Model Evaluation |

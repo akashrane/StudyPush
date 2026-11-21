@@ -30,6 +30,7 @@ Go to **Actions** tab → select the workflow → click **Run workflow**
 
 | Date | Topic | Category |
 |------|-------|----------|
+| 2026-11-21 | [Feature Engineering](articles/data-preprocessing/2026-11-21_feature-engineering.md) | Data Preprocessing |
 | 2026-11-20 | [Support Vector Machines](articles/machine-learning/2026-11-20_support-vector-machines.md) | Machine Learning |
 | 2026-11-19 | [Pandas Essentials](articles/python-tools/2026-11-19_pandas-essentials.md) | Python Tools |
 | 2026-11-18 | [K-Nearest Neighbors](articles/machine-learning/2026-11-18_k-nearest-neighbors.md) | Machine Learning |
